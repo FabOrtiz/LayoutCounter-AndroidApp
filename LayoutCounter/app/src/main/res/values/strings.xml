@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Layout Counter</string>
+    <string name="toast_text">TOAST</string>
+    <string name="count_down_text">COUNT DOWN</string>
+    <string name="count_up_text">COUNT UP</string>
+</resources>
